@@ -10,19 +10,20 @@
 <div align="center">
     <h4> 🚀 FULL PREVIEW </h4>
 
-    ![image]
+    <img src="https://github.com/igorsctt/ProjetoEasyShoppingMobile/blob/master/assets/FullPreview.png?raw=true">
 
     <br>
 
     <h4> 🚀 DESKTOP PREVIEW </h4>
 
-    ![image]
+    <img src="https://github.com/igorsctt/ProjetoEasyShoppingMobile/blob/master/assets/DesktopPreview.png?raw=true">
 
     <br>
 
     <h4> 🚀 MOBILE PREVIEW</h4>
 
-    ![image]
+    <img src="https://github.com/igorsctt/ProjetoEasyShoppingMobile/blob/master/assets/MobilePreview.png?raw=true">
+    
 </div>
 <br>
 <div align="center">
